@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.daws76s.cfd
+REDIS_HOST: redis-dev.daws76s.cfd
+CATALOGUE_HOST: catalogue-dev.daws76s.cfd
+MYSQL_HOST: mysql-dev.daws76s.cfd
+RABBITMQ_HOST: rabbitmq-dev.daws76s.cfd
+USER_HOST: user-dev.daws76s.cfd
+CART_HOST: cart-dev.daws76s.cfd
+SHIPPING_HOST: shipping-dev.daws76s.cfd
+PAYMENT_HOST: payment-dev.daws76s.cfd
+DISPATCH_HOST: dispatch-dev.daws76s.cfd
