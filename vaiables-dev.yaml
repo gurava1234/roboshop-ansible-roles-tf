@@ -8,3 +8,5 @@ CART_HOST: cart.app-dev.daws76s.cfd
 SHIPPING_HOST: shipping.app-dev.daws76s.cfd
 PAYMENT_HOST: payment.app-dev.daws76s.cfd
 DISPATCH_HOST: dispatch.app-dev.daws76s.cfd
+NEXUS_URL: http://172.31.5.95:8081/repository
+group_id: "com/roboshop"
